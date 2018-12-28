@@ -11,4 +11,23 @@
   margin-left: auto;
   margin-right: auto; }
 
+.image1 {
+  width: 100%; }
+
+.go {
+  background-color: #15c5e4; }
+
+.gu {
+  background-color: #111120; }
+
+.po {
+  font-size: 15px; }
+
+.fuy {
+  font-size: 14px; }
+
+.dsu {
+  letter-spacing: 10px;
+  font-size: 18px; }
+
 /*# sourceMappingURL=style.css.map */
